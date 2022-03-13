@@ -1,3 +1,3 @@
 # js-stopwatch
 
-[url=https://ibb.co/LRhgS2K][img]https://i.ibb.co/QQjH910/stopwatch.jpg[/img][/url]
+<a href="https://ibb.co/LRhgS2K"><img src="https://i.ibb.co/QQjH910/stopwatch.jpg" alt="stopwatch" border="0"></a>
